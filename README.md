@@ -1,1 +1,2 @@
 # odin-recipes
+# This project is called recipes projects and what i want to do is to use my knowledge of HTML and build a webpage with different recipes. I will display my skills of git commands, github repo and HTML.
